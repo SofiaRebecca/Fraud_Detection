@@ -51,8 +51,6 @@ This project is a machine learning solution to detect **fraudulent transactions*
 ## 👩‍💻 Author
 
 **Sofia Rebecca**  
-[LinkedIn Profile (optional)](https://linkedin.com/in/yourname)  
-[Email (optional)](mailto:you@example.com)
 
 ---
 
